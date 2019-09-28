@@ -7,3 +7,5 @@ Project developed in Python to determine probability of recession 6-12 months fr
 
 Naive Bayes outperformed all models with an AUC of 0.83. Please see below for the current chance of recession 6-12 months from now.
 
+
+![Recession Prob Graph](https://github.com/nick-cochrane/Recession-Modeling/blob/master/Data/prob_rec.png)
